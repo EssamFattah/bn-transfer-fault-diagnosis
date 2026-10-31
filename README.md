@@ -136,4 +136,4 @@ Possible extensions include learning with incomplete observations, adapting the 
 
 ## Status
 
-This project is a synthetic proof of concept exploring parameter transfer in Bayesian networks. It helped me investigate the relationship between prior knowledge, limited training data and diagnostic performance, as well as the risks of transferring knowledge between systems that are not identical.
+This project is just a proof of concept exploring parameter transfer in Bayesian networks. It helped me investigate the relationship between prior knowledge, limited training data and diagnostic performance, as well as the risks of transferring knowledge between systems that are not identical.
